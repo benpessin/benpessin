@@ -1,8 +1,8 @@
 # Ben Pessin
 
-AI adoption & enablement across a 25+ business portfolio — I design and build the production platforms that make it stick.
+AI adoption & enablement across a 25+ business portfolio. I design and build the production platforms that make it stick.
 
-Most of my work is proprietary and lives in private repos: 13 production platforms, 6 live apps across web and iOS/Android, 3 LLM assistants in daily use by operating teams, and an agentic lead-generation platform with per-run cost observability. Full case studies — with metrics read live from the production databases — are at [benpessin.com](https://benpessin.com).
+Most of my work is proprietary and lives in private repos: 13 production platforms, 6 live apps across web and iOS/Android, 3 LLM assistants in daily use by operating teams, and an agentic lead-generation platform with per-run cost observability. Full case studies, with metrics read live from the production databases, are at [benpessin.com](https://benpessin.com).
 
 ## Stack
 
